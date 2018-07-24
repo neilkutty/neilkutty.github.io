@@ -4,16 +4,14 @@ author: "Neil Kutty"
 output: html_document
 ---
 
-- [Predicting House Prices with Gradient Boosting](https://github.com/sampsonsimpson/Predicting-House-Prices/blob/master/Predicting%20House%20Prices.pdf)
+- [Predicting House Prices with Gradient Boosting](https://github.com/neilkutty/Predicting-House-Prices/blob/master/Predicting%20House%20Prices.pdf)
 - [Interactive DC Crime Map with Summary Charts](https://kuttyman.shinyapps.io/crimeDC)
 - [Predicting Breast Cancer Malignancy](https://www.kaggle.com/sampsonsimpson/d/uciml/breast-cancer-wisconsin-data/breast-cancer-prediction-rf-svm-mlp)
-- [Prediction with Gyroscope and Accelerometer Data in R](sampsonsimpson.github.io/AccelerometerPrediction)
-- [Using Plotly with R Markdown](sampsonsimpson.github.io/MarkdownPlotly)
 - [Next Word Prediction in R - Preso](https://rpubs.com/sampsonsimpson/NextWordPrediction)
 - [Next Word Prediction in R - Web App](https://kuttyman.shinyapps.io/NextWordPrediction/)
 - [Exploring 515K European Hotel Reviews](https://www.kaggle.com/sampsonsimpson/exploring-515k-european-hotel-reviews)
 
 ---
 
-[github](https://www.github.com/sampsonsimpson) | [twitter](https://www.twitter.com/neilkutty) | [linkedin](https://www.linkedin.com/in/neilkutty)
+[github](https://www.github.com/neilkutty) | [twitter](https://www.twitter.com/neilkutty) | [linkedin](https://www.linkedin.com/in/neilkutty)
 
