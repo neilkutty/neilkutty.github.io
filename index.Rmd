@@ -4,7 +4,7 @@ author: "Neil Kutty"
 output: html_document
 ---
 
-- [Predicting House Prices with Gradient Boosting](https://github.com/neilkutty/Predicting-House-Prices/blob/master/houseprices.ipynb)
+- [Predicting House Prices with Gradient Boosting](https://github.com/neilkutty/Predicting-House-Prices/blob/master/Predicting%20House%20Prices.pdf)
 - [Interactive DC Crime Map with Summary Charts](https://kuttyman.shinyapps.io/crimeDC)
 - [Predicting Breast Cancer Malignancy](https://www.kaggle.com/sampsonsimpson/d/uciml/breast-cancer-wisconsin-data/breast-cancer-prediction-rf-svm-mlp)
 - [Next Word Prediction in R - Preso](https://rpubs.com/sampsonsimpson/NextWordPrediction)

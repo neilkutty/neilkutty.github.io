@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3762768779",
+    "hash" : "141564632",
     "id" : "8F0CDD0",
-    "lastKnownWriteTime" : 1565308127,
-    "last_content_update" : 1565308127841,
+    "lastKnownWriteTime" : 1567113827,
+    "last_content_update" : 1567113827782,
     "path" : "~/GitHub/neilkutty.github.io/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "4,3",
+        "cursorPosition" : "6,147",
         "scrollLine" : "0"
     },
     "read_only" : false,
